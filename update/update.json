@@ -1,4 +1,6 @@
 {
   "Version": "1.3.0",
-  "UpdatedLoaderUrl": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/MLWEBVIEW3.exe"
+  "UpdatedLoaderUrl": "https://votreserveur.com/MLWEBVIEW3.exe",
+  "DeltaBaseVersion": "1.2.0",
+  "DeltaUrl": "https://votreserveur.com/deltas/delta_1.2.0_to_1.3.0.bin"
 }
