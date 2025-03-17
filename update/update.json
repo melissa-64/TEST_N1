@@ -3,5 +3,5 @@
     "UpdatedLoaderUrl": "https://files.anewvision.fr/ml/Multiloader_DEFAULT.exe",
     "ReleaseNotes": "### Nouvelles fonctionnalités\n- Ajout du système de mise à jour dual\n- Amélioration de l'interface utilisateur\n\n### Corrections de bugs\n- Résolution des problèmes de connexion\n- Corrections des crashs aléatoires",
     "MinimumRequiredVersion": "1.0.0.0",
-    "ForceUpdate": false
+    "ForceUpdate": true
 }
