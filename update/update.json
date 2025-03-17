@@ -1,7 +1,7 @@
 {
     "Version": "2.1.0.0",
-    "UpdatedLoaderUrl": "https://emplacement-de-votre-nouvelle-version/MonAppplication_v2.1.0.0.exe",
+    "UpdatedLoaderUrl": "https://files.anewvision.fr/ml/Multiloader_DEFAULT.exe",
     "ReleaseNotes": "### Nouvelles fonctionnalités\n- Ajout du système de mise à jour dual\n- Amélioration de l'interface utilisateur\n\n### Corrections de bugs\n- Résolution des problèmes de connexion\n- Corrections des crashs aléatoires",
-    "MinimumRequiredVersion": "2.0.0.0",
+    "MinimumRequiredVersion": "1.0.0.0",
     "ForceUpdate": false
 }
