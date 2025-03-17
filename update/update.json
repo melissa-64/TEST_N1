@@ -1,7 +1,9 @@
 {
-    "Version": "2.2.0.0",
-    "UpdatedLoaderUrl": "https://files.anewvision.fr/ml/Multiloader_DEFAULT.exe",
-    "ReleaseNotes": " Nouvelles fonctionnalités\n- Ajout du système de mise à jour dual\n- Amélioration de l'interface utilisateur\n\n### Corrections de bugs",
-    "MinimumRequiredVersion": "0.0.0.0",
-    "ForceUpdate": true
+  "Version": "1.0.1.0",
+  "UpdatedLoaderUrl": "https://files.anewvision.fr/ml/Multiloader_DEFAULT.exe",
+  "ReleaseNotes": "Cette mise à jour inclut :\n- Système d'auto-update amélioré\n- Correction de bugs divers\n- Améliorations de performances",
+  "MinimumRequiredVersion": "1.0.0.0",
+  "ForceUpdate": false,
+  "PublishedDate": "2025-03-17T14:00:00Z",
+  "FileSize": 74448896
 }
